@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lyVcJbDM33BpcWnOFAkKHcPy3vw4DehcsXo7zVBHt5+B7bhI7F0Wljz3sP7BZjFtqdkRa9DYeFDnEOei2XoqFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taffo\\source\\repos\\ServicesPortal\\ServicesPortal\\ServicesPortal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taffo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\taffo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\taffo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\taffo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\taffo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
